@@ -1,6 +1,4 @@
-/*
-  Pointer & memory-demo program with clear comments.
-
+*/
   Key points explained inline:
   - pointer declaration and initialization
   - address vs value (use %p for addresses)
